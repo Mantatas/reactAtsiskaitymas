@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactAtsisk/static/css/main.1e867cbb.css",
+    "main.js": "/reactAtsisk/static/js/main.e1b0d638.js",
+    "index.html": "/reactAtsisk/index.html",
+    "main.1e867cbb.css.map": "/reactAtsisk/static/css/main.1e867cbb.css.map",
+    "main.e1b0d638.js.map": "/reactAtsisk/static/js/main.e1b0d638.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e867cbb.css",
+    "static/js/main.e1b0d638.js"
+  ]
+}
