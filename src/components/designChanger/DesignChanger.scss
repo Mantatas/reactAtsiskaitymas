@@ -1,0 +1,13 @@
+.designChangerGrid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    column-gap: 0.1rem;
+    row-gap: 1rem;
+    background-color: white;
+
+    button{
+        border: none;
+        background: none;
+    }
+}
